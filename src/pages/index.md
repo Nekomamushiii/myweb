@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Ryunosuke
 image: /img/home-jumbotron.jpg
 heading: Welcome
 subheading: Support sustainable farming while enjoying a cup
